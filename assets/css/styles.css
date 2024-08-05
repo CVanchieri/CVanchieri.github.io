@@ -513,15 +513,15 @@ img{
 }
 
 .skills__strategicthinking{
-    width: 90%;
+    width: 70%;
 }
 
 .skills__timemanagement{
-    width: 90%;
+    width: 70%;
 }
 
 .skills__communication{
-    width: 95%;
+    width: 75%;
 }
 
 .skills__adaptability{
@@ -533,47 +533,47 @@ img{
 }
 
 .skills__problemsolving{
-    width: 95%;
+    width: 75%;
 }
 
 .skills__trello{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__notion{
-    width: 85%;
+    width: 65%;
 }
 
 .skills__git{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__figna{
-    width: 85%;
+    width: 65%;
 }
 
 .skills__slack{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__bootstrap{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__mysql{
-    width: 70%;
+    width: 50%;
 }
 
 .skills__mongo{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__postgresql{
-    width: 70%;
+    width: 50%;
 }
 
 .skills__mssqlserver{
-    width: 85%;
+    width: 65%;
 }
 
 .skills__close .skills__list{
