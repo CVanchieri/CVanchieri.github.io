@@ -512,44 +512,48 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__python{
+.skills__strategicthinking{
+    width: 90%;
+}
+
+.skills__timemanagement{
+    width: 90%;
+}
+
+.skills__communication{
     width: 95%;
 }
 
-.skills__java{
-    width: 40%;
+.skills__adaptability{
+    width: 100%;
 }
 
-.skills__r{
-    width: 90%;
+.skills__empathy{
+    width: 100%;
 }
 
-.skills__cplusplus{
-    width: 75%;
+.skills__problemsolving{
+    width: 95%;
 }
 
-.skills__c{
-    width: 65%;
-}
-
-.skills__docker{
-    width: 85%;
-}
-
-.skills__kubernetes{
-    width: 30%;
-}
-
-.skills__git{
-    width: 90%;
-}
-
-.skills__reactnative{
+.skills__trello{
     width: 80%;
 }
 
-.skills__bash{
+.skills__notion{
     width: 85%;
+}
+
+.skills__git{
+    width: 80%;
+}
+
+.skills__figna{
+    width: 85%;
+}
+
+.skills__slack{
+    width: 80%;
 }
 
 .skills__bootstrap{
