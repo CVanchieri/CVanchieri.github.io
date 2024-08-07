@@ -559,27 +559,27 @@ img{
 
 /*==================== Data Science ====================*/
 .skills__python{
-    width: 65%;
+    width: 80%;
 }
 
 .skills__mysql{
-    width: 60%;
+    width: 75%;
 }
 
 .skills__postgress{
-    width: 60%;
+    width: 75%;
 }
 
 .skills__ml{
-    width: 50%;
+    width: 65%;
 }
 
 .skills__docker{
-    width: 40%;
+    width: 55%;
 }
 
 .skills__bash{
-    width: 45%;
+    width: 60%;
 }
 
 .skills__close .skills__list{
