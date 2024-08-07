@@ -513,15 +513,15 @@ img{
 }
 /*==================== Management ====================*/
 .skills__strategicthinking{
-    width: 75%;
+    width: 80%;
 }
 
 .skills__timemanagement{
-    width: 75%;
+    width: 80%;
 }
 
 .skills__communication{
-    width: 85%;
+    width: 90%;
 }
 
 .skills__adaptability{
@@ -533,7 +533,7 @@ img{
 }
 
 .skills__problemsolving{
-    width: 85%;
+    width: 90%;
 }
 
 /*==================== Technology ====================*/
@@ -542,7 +542,7 @@ img{
 }
 
 .skills__notion{
-    width: 60%;
+    width: 70%;
 }
 
 .skills__git{
@@ -554,7 +554,7 @@ img{
 }
 
 .skills__slack{
-    width: 75%;
+    width: 85%;
 }
 
 /*==================== Data Science ====================*/
