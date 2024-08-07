@@ -532,6 +532,10 @@ img{
     width: 100%;
 }
 
+.skills__feedback{
+    width: 95%;
+}
+
 .skills__problemsolving{
     width: 95%;
 }
