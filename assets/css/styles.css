@@ -511,17 +511,17 @@ img{
     display: block;
     background-color: var(--first-color);
 }
-
+/*==================== Management ====================*/
 .skills__strategicthinking{
-    width: 70%;
+    width: 75%;
 }
 
 .skills__timemanagement{
-    width: 70%;
+    width: 75%;
 }
 
 .skills__communication{
-    width: 75%;
+    width: 80%;
 }
 
 .skills__adaptability{
@@ -533,47 +533,53 @@ img{
 }
 
 .skills__problemsolving{
-    width: 75%;
+    width: 80%;
 }
 
+/*==================== Technology ====================*/
 .skills__trello{
-    width: 60%;
+    width: 65%;
 }
 
 .skills__notion{
-    width: 65%;
+    width: 60%;
 }
 
 .skills__git{
-    width: 60%;
-}
-
-.skills__figna{
     width: 65%;
 }
 
-.skills__slack{
-    width: 60%;
+.skills__figma{
+    width: 50%;
 }
 
-.skills__bootstrap{
-    width: 60%;
+.skills__slack{
+    width: 75%;
+}
+
+/*==================== Data Science ====================*/
+.skills__python{
+    width: 65%;
 }
 
 .skills__mysql{
     width: 50%;
 }
 
-.skills__mongo{
+.skills__postgress{
     width: 60%;
 }
 
-.skills__postgresql{
+.skills__ml{
     width: 50%;
 }
 
-.skills__mssqlserver{
-    width: 65%;
+.skills_docker{
+    width: 40%;
+}
+
+.skills__bash{
+    width: 45%;
 }
 
 .skills__close .skills__list{
