@@ -546,7 +546,7 @@ img{
 
 /*==================== Technology ====================*/
 .skills__trello{
-    width: 85%;
+    width: 9%;
 }
 
 .skills__notion{
@@ -554,11 +554,11 @@ img{
 }
 
 .skills__jira{
-    width: 80%;
+    width: 85%;
 }
 
 .skills__git{
-    width: 80%;
+    width: 90%;
 }
 
 .skills__figma{
