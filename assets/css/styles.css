@@ -563,7 +563,7 @@ img{
 }
 
 .skills__mysql{
-    width: 50%;
+    width: 60%;
 }
 
 .skills__postgress{
@@ -574,7 +574,7 @@ img{
     width: 50%;
 }
 
-.skills_docker{
+.skills__docker{
     width: 40%;
 }
 
