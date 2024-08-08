@@ -317,6 +317,10 @@ img{
     font-size: var(--big-font-size);
 }
 
+.home__title2{
+    font-size: var(--med-font-size);
+}
+
 .home__subtitle{
     font-size: var(--h3-font-size);
     color: var(--text-color);
