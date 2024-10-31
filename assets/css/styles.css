@@ -300,18 +300,19 @@ img{
     color: var(--first-color-alt);
 }
 
+.home__img {
+    width: 100%;
+    max-width: 800px; /* Controls the maximum size */
+}
+
 .home__blob {
     width: 100%;
     height: auto;
 }
 
-.home__blob-img{
-    width: 170px;
-}
-
-.home__img {
+.home__blob-img {
     width: 100%;
-    max-width: 600px;
+    height: 100%;
 }
 
 .home__data{
