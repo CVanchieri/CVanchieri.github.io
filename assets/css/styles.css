@@ -306,7 +306,7 @@ img{
 }
 
 .home__blob-img{
-    clip-path: circle(50% at 50% 50%);
+    width: 170px;
 }
 
 .home__data{
@@ -1138,6 +1138,7 @@ img{
     }
     .home__blob{
         width: 180px;
+        height: 180px;
     }
 
     .skills__title{
