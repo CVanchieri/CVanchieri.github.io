@@ -301,8 +301,10 @@ img{
 }
 
 .home__img {
-    width: 100%;
-    max-width: 6000; /* Controls the maximum size */
+    width: 200px;
+    border-radius: .5rem;
+    justify-self: center;
+    align-self: center;
 }
 
 .home__blob {
