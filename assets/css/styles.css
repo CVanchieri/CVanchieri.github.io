@@ -302,7 +302,7 @@ img{
 
 .home__img {
     width: 100%;
-    max-width: 800px; /* Controls the maximum size */
+    max-width: 1200px; /* Controls the maximum size */
 }
 
 .home__blob {
