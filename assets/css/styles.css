@@ -300,13 +300,18 @@ img{
     color: var(--first-color-alt);
 }
 
-.home__blob{
-    width: 200px;
-    fill: var(--first-color);
+.home__blob {
+    width: 100%;
+    height: auto;
 }
 
 .home__blob-img{
     width: 170px;
+}
+
+.home__img {
+    width: 100%;
+    max-width: 600px;
 }
 
 .home__data{
