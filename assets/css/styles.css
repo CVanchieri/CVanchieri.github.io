@@ -306,7 +306,7 @@ img{
 }
 
 .home__blob-img{
-    width: 170px;
+    clip-path: circle(50% at 50% 50%);
 }
 
 .home__data{
